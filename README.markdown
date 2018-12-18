@@ -54,7 +54,6 @@ written permission.
 Visit http://openvbx.org  
 Pickles and gravy.
 
-
 Please remember that your use of OpenVBX in connection with the Twilio 
 website and services is subject to the Twilio Terms of Service. 
 Remember that you bear sole responsibility for adequate security,
